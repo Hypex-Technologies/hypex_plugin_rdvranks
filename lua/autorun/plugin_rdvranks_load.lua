@@ -1,0 +1,1 @@
+return SERVER and include("rdvranks/sv_plugin.lua")
