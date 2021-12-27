@@ -1,6 +1,6 @@
 # Hypex Cross-Branch Promotion Plugin
-## For Nicolas Rank System(https://discord.gg/rCJ8CJA2mC)
-## By [Hypex Technologies](https://hypextech.com)
+### For Nicolas Rank System(https://discord.gg/rCJ8CJA2mC)
+### By [Hypex Technologies](https://hypextech.com)
 <br>
 
 # Features
